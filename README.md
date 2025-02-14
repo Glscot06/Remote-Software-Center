@@ -24,7 +24,7 @@ This program functions as a comprehensive Remote Software Center, designed to en
 
 ### Usage
 
-1. Download executable
+1. Download RemoteSC.exe executable
 2. Run executable.
 
 ### Requirements
