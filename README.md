@@ -1,5 +1,5 @@
 # Remote-Software-Center
-## https://buymeacoffee.com/gscott0032
+## Support - Venmo - Gregory-Scott-91
 This program functions as a comprehensive Remote Software Center, designed to enable system administrators to manage software installations, updates, and task execution remotely on client machines. 
 ![alt text](RSC.png)
 ### Features
