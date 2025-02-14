@@ -26,7 +26,8 @@ This program functions as a comprehensive Remote Software Center, designed to en
 
 1. Download RemoteSC.exe executable
 2. Run executable.
-
+3. Enter in remote computer name and click Connect.
+4. Remotely administer!
 ### Requirements
 
 - Need to be a workstation admin on remote workstations you are running the script against. 
